@@ -1,0 +1,9 @@
+# Lag
+accz: delay -33 frame (-) neg
+
+# Clipping avoid
+avoid_clipping_coefficient = 0.3
+
+# Mic parameters
+sensitivity = 0.050 V/Pa
+Electrical gain = 10
